@@ -1,13 +1,9 @@
 ﻿using Microsoft.Build.Framework;
-using Microsoft.Build.Utilities;
 using SOFTAPRO.Newtonsoft.Json;
 using System;
 using System.IO;
 using System.Linq;
-using System.Reflection;
-using System.Reflection.Emit;
 using System.Text;
-using System.Xml;
 
 
 /// <summary>
